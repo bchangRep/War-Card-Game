@@ -16,3 +16,5 @@ The order the cards are placed are the bottom of the deck is: winner's card(s) f
 
 In the event that a war occurs and one player does not have enough cards, the opponent automatically wins.
 In the event that a war occurs and both players do not have enough cards, player 2 automatically wins.
+
+This section is also stated in WarGame.java
