@@ -8,6 +8,7 @@ For security reasons you may not be able to run the .bat file. In that case you 
 2) Copy and paste the following 2 lines into a new file:
 
 java -jar WarGame.jar
+
 pause
 
 3) Save the file as War.bat
