@@ -1,4 +1,4 @@
-The 2 files War.bat and WArGame.jar allow you to run this game as an executable.
+The 2 files War.bat and WarGame.jar allow you to run this game as an executable.
  -The display will be in the command prompt window, and it will simulate 1 game of war.
 To do this you will need to have the War.bat and WarGame.jar file located in the same folder.
 Run the War.bat file to run the game.
